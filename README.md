@@ -1,2 +1,2 @@
-# Stat632Project
-Empirical investigation of centering on Bayesian hierarchal models.
+# Description
+This repo contains experiments for centering of Bayesian hierarhical models. 
